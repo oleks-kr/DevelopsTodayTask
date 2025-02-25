@@ -10,7 +10,7 @@ Follow these steps to set up and run the tests locally.
 
 Clone this repository to your local machine:
 
-git clone https://github.com/oleks-kr/cypress-playlist-tests.git
+git clone [https://github.com/oleks-kr/cypress-playlist-tests.git](https://github.com/oleks-kr/DevelopsTodayTask.git)
 
 ### 2. Install Dependencies
 Navigate to the project directory and install the required dependencies:
