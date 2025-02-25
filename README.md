@@ -24,7 +24,6 @@ This will install Cypress along with any other necessary dependencies listed in 
 To run the tests interactively in the Cypress Test Runner:
 
 npx cypress open
-This opens the Cypress Test Runner where you can select and run specific tests interactively.
 
 ### 4. Run Tests in Headless Mode
 To run the tests in headless mode (without the UI):
