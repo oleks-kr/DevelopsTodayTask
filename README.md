@@ -15,7 +15,6 @@ git clone [https://github.com/oleks-kr/cypress-playlist-tests.git](https://githu
 ### 2. Install Dependencies
 Navigate to the project directory and install the required dependencies:
 
-cd cypress-playlist-tests
 npm install
 
 This will install Cypress along with any other necessary dependencies listed in the package.json.
